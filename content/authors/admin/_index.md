@@ -48,16 +48,16 @@ profiles:
     url: https://orcid.org/0009-0002-5489-6861
 
 interests:
-  - 
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Environmental Economics
+  - Energy Economics
+  - Applied Macoeconomics
+  - Time Series Econometrics and Forecasting
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Economics
+    institution: Texas Tech University
+    date_start: 2022-08-01
+    date_end: 2026-05-12 (Expected)
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
