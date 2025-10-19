@@ -57,7 +57,7 @@ education:
   - area: PhD Economics
     institution: Texas Tech University
     date_start: 2022-08-01
-    date_end: 2026-05-12 (Expected)
+    date_end: 2026-05-12 
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
