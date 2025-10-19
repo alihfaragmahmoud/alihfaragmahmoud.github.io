@@ -10,11 +10,11 @@ first_name: Ali
 last_name: Mahmoud
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
-  icon: �
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,21 +34,21 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:alihfaragmahmoud@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/alihfaragmahmoud/alihfaragmahmoud
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/ali-mahmoud-a99a71343/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?view_op=new_profile&hl=ar
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0002-5489-6861
 
 interests:
-  - Large Language Models
+  - 
   - Computer Vision
   - Reinforcement Learning
   - AI Ethics
