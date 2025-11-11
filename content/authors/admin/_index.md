@@ -164,10 +164,7 @@ awards:
     icon: hero/academic-cap
     summary: |
       Recognized for contributions to scaling laws in deep learning.
-    # This enables the "Download CV" button
-resume: uploads/Ali_Mahmoud_CV.pdf
 
-  
 ---
 
 ALI MAHMOUD
