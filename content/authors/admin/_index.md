@@ -71,7 +71,7 @@ education:
       GPA: 3.91/4.0
 
       Specialized in machine learning and robotics.
-  - area:	B.S. in Economics
+  - area:	BS in Economics
     institution: University of Benghazi, Libya 
     date_start: 2002-02-01
     date_end: 20053-05-31
