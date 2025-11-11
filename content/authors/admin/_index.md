@@ -63,20 +63,20 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area:	MA in Economics
+    institution:  Texas Tech University
+    date_start: 2022-08-01
+    date_end: 2025-11-15
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.91/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area:	B.S. in Economics
+    institution: University of Benghazi, Libya 
+    date_start: 2002-02-01
+    date_end: 20053-05-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.23/4.0
 
       Minored in Mathematics. President of AI Club.
 
