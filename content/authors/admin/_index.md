@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ali Mahmoud
+title: Ali H Farag Mahmoud
 
 # Name pronunciation (optional)
 name_pronunciation: ''
