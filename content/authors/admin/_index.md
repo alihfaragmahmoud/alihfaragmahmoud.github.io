@@ -74,7 +74,7 @@ education:
   - area:	BS in Economics
     institution: University of Benghazi, Libya 
     date_start: 2002-02-01
-    date_end: 20053-05-31
+    date_end: 2005-05-31
     summary: |
       GPA: 3.23/4.0
 
